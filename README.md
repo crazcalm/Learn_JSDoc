@@ -8,3 +8,14 @@ Notes:
 
     Tutorial url: http://usejsdoc.org/about-getting-started.html
 
+
+How to run JSDocs:
+------------------
+
+    1. node_module/jsdoc/jsdoc <js file>
+
+    2. Generates an "out" directory
+
+    3. cd out
+
+    4. open the html files in a browser
